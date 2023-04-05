@@ -3,7 +3,7 @@
 ## Select one of the following projects to code:
 
 ## Option 1:  Falling Boxes
-![Falling Objects Example](assets/FallingObjects.mp4)
+![Falling Objects Example](.lesson/assets/FallingObjects.mp4)
 ### Objective of Falling Boxes:
 The player, positioned at the bottom of the screen, must maneuver left and right to avoid objects falling from the top of the screen. The game ends upon collision of a falling object with the player.
 
@@ -56,7 +56,7 @@ The player, positioned at the bottom of the screen, must maneuver left and right
 
 
 ## Option 2: Shooting Gallery
-![example](assets/ShootingGallery.mp4)
+![example](.lesson/assets/ShootingGallery.mp4)
 ### Objective of Shooting Gallery:
 The player must shoot out the blocks positioned in rows at the top of the playing area.
 
